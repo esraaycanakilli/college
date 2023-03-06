@@ -8,4 +8,4 @@ HTML5,CSS3,JavaScript ile ileri animasyon teknolojileri.
 
 <h2> Ekran Gifi </h2>
 
-![] (animasyon.gif)
+![] (animation.gif)
